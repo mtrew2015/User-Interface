@@ -90,17 +90,17 @@ margin: 25px;
 
 }
 #headerimg{
-margin-right:463px;
+margin-right:100px;
 margin-top: 25px;
 float:right;
 
 }
 
 #bigtext{
- margin-right: 450px;
+ margin-left: 140px;
  margin-top: 79px;
  font-size: 72px;
- float: right;
+ float: left;
  font-family:Knewave;
 }
 
